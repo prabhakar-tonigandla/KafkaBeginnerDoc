@@ -1,0 +1,13 @@
+
+	1. Topics
+	2. Partitions
+	3. Offsets
+	4. Producers
+	5. Consumers
+	6. Consumer Groups
+	7. Message Keys
+	8. Topic Replication
+	9. Producer acknowledgements 
+	10. Topic Durability 
+	11. Zookeeper
+	12. Kafka Kraft
