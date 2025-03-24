@@ -1,0 +1,28 @@
+Morning/Evening Everyone, We  are going to spend next 1 hour on Kafka and if there are any questions, I will answer them If I know or I can do some research and will get back to you If I don’t know.
+
+First off all, We will understand WHY KAFKA?
+
+• Real-time data streaming 
+• Event-driven architectures
+• Decoupling micro services
+
+Horizantal Scalability
+	• Can Scale to 100s of Brokers
+	• Can scale to millions of Messages per second
+High performance(Latency of less than 10 ms) - real time
+
+
+Where to USE:
+	• Messaging System
+	• Activity Tracking
+	• Gather Metrics from Many different locations
+	• Application Logs Gathering
+	• Stream processing
+	• De-coupling of system dependencies 
+
+• We can use Kafka to apply recommendations in real-time while you’re watching TV shows
+• We can use Kafka to gather user, taxi and trip data in real-time to compute and forecast demand, and compute surge pricing in real-time
+• Also to collect user interactions to make better connection recommendations in real-time.
+
+
+
